@@ -4,6 +4,8 @@
 
 Sou um desenvolvedor Mobile apaixonado por criar experiências incríveis em aplicativos. Com 23 anos e formado pela UNIFESO, moro em Teresópolis, RJ, e estou sempre buscando aprimorar minhas habilidades e explorar novas tecnologias.
 
+<img src="./src/coding.gif">
+
 📫 Contato: [LinkedIn](https://www.linkedin.com/in/joão-victor-r-cavalier-b900991a3/)
 
 ---
